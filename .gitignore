@@ -1,4 +1,4 @@
-# data
+# sample data
 questionaire.pdf
 williams.pdf
 
@@ -9,3 +9,5 @@ williams.pdf
 
 # vector persistance
 index
+chroma-collections.parquet
+chroma-embeddings.parquet
