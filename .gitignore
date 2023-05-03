@@ -6,6 +6,8 @@ williams.pdf
 # env
 .env
 
+# miscellaneous
+.DS_Store
 
 # vector persistance
 index
